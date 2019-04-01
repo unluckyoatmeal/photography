@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "http://photography.nickolasdecker.me/"
+baseurl: "https://unluckyoatmeal.github.io/photography/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
